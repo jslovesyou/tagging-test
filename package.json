@@ -1,0 +1,19 @@
+{
+  "name": "tagging-test",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslovesyou/tagging-test.git"
+  },
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jslovesyou/tagging-test/issues"
+  },
+  "homepage": "https://github.com/jslovesyou/tagging-test#readme"
+}
